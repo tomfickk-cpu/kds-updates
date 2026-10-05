@@ -1,1 +1,1 @@
-{"version":"1.0.0","download_url":"https://github.com/tomfickk-cpu/kds-restaurante/releases/latest","notes":"Release comercial inicial"}
+{"version":"1.0.1","download_url":"https://github.com/tomfickk-cpu/kds-restaurante/releases/tag/v1.0.1","notes":"## Mudanças desde v1.0.0\n\n- feat: release automation (npm run release x.y.z)\n- feat: painel admin exibe versao/update + feed publico de versao"}
